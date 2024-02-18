@@ -1,30 +1,61 @@
 <!DOCTYPE html>
 <html>
+<head>
+<link rel="stylesheet" href="style.css">
+<style>
+table, th, td {
+  border: double #0d5395;
+  border-collapse: collapse;
+}
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+table {
+            text-align: center;
+ }
+</style>
+</head>
 <body>
+<div class = "topnav">
+	<a href = "index.html" title="home">Home</a>
+	<a href = "teambio.html" title = "teambio">Meet the team :)</a>
+	<a href = "problem.html" title = "problem">Societal Problem</a>
+	<a href = "solution.html" title = "solution">Our Solution</a>
+	<div class="dropdown">
+	<button class="dropbtn">Presentations &nabla;</button>
+			<div class="dropdown-content">
+				<a href = "presentations.html" title="allpc">All Presentations</a>
+				<!-- <a href = "feasv1" title="feasv1">Feasibility V1</a> -->
+			</div>
+	</div>
+	
+</div>
+	
+
 <h1><center>Meet the team!</center></h1>
-<p>
+
 <center><table>
 	<tr>
-		<td><i>Image Anna TBA</i></td>
-		<td><i>Image Caelan TBA</i></td>
-		<td><i>Image Caiden TBA</i></td>
+		<td style="width:33.3%" ><img src="anna.jpg" style="width:200px; height: auto"></td>
+		<td style="width:33.3%" ><img src="caelan.png" style="width:200px; height: auto"></td>
+		<td style="width:33.3%" ><img src="caiden.png" style="width:200px; height: auto"></td>
 	</tr>
 	<tr>
 		<th>Anna Foust</th>
-		<th>Caelan Larsen</th>
+		<th>Caelan Larson</th>
 		<th>Caiden Petty</th>
 	</tr>
 	<tr>
 		<td>A cool bio about Anna TBA</td>
-		<td>Caelan has a general interest in software development. He spends most of his spare time playing old video games on his CRT TV, with his other interests including Chinese martial arts, game development, small electronics soldering, and reading the occasional book.</td>
+		<td><center>Caelan has a general interest in software development. He spends most of his spare time playing old video games on his CRT TV, with his other interests including Chinese martial arts, game development, small electronics soldering, and reading the occasional book.</center></td>
 		<td>A cool bio about Caiden TBA</td>
-	</tr></table></center>
-	<br><br><br>
-	<center><table>
+	</tr>
+	<tr></tr>
 	<tr>
-		<td><i>Image Jasmine TBA</i></td>
-		<td><i>Image Tygerlily TBA</i></td>
-		<td><i>Image Zara TBA</i></td>
+		<td><img src="jas.jpg" style="width:200px; height: auto"></td>
+		<td><img src="tyger.jpg" style="width:200px; height: auto"></td>
+		<td><img src="zara.jpg" style="width:200px; height: auto"></td>
 	</tr>
 	<tr>
 		<th>Jasmine Willis</th>
@@ -33,14 +64,15 @@
 	</tr>
 	<tr>
 		<td>A cool bio about Jasmine TBA</td>
-		<td>A cool bio about Tygerlily TBA</td>
+		<td>Tygerlily enjoys spending time creating in general, such as websites, miniature models, tables, and Gundam. She is also interested in chemistry and both playing and making video games. </td>
 		<td>A cool bio about Zara TBA</td>
 	</tr>
-	</table></center> <!--CENTER IS OUTDATED CONVERT THIS TO CSS AND ADD TABLE BUFFERS-->
+	</table></center>
+
 
 <br><br>
 
-<center><a href = "index.html" title = "index">Back to Home Page</a><br>
+<p><center><a href = "index.html" title = "index">Back to Home Page</a><br>
 </p>
 </body>
 </html>
