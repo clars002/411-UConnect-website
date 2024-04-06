@@ -1,7 +1,8 @@
 body {
 	//background-color: #f9f9f9;
 	//background-color: #0d7e95;
-	background-color: #0d5395;
+
+	background-color: #062d52;
 	color: white;
 	font-family: 'Trebuchet MS', sans-serif;
 }
@@ -9,7 +10,7 @@ body {
 /* The top navigation bar, this doesnt follow the user scrolling, we can vote for a preference*/
 .topnav{
 	overflow: hidden; 
-	background-color: #0d5395;
+	background-color: #062d52;
 	font-family: 'Trebuchet MS', sans-serif;
 	padding: 2px, 2px;
 }
