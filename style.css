@@ -66,3 +66,16 @@ float: none;
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.footer {
+	background-color: white;
+	color: #062d52;
+	position: absolute;
+	text-align: left;
+	bottom: 100;
+	left: 0;
+	z-index: 100;
+	width: 100%;
+	padding: 20px;
+
+}
