@@ -1,5 +1,5 @@
 ## UConnect
-410 Sapphire Spring 2024 capstone project
+This is the capstone project developed by the CS410 Team Sapphire students at ODU from Spring 2024 to Fall 2024.
 
 ## The Problem:
 
@@ -9,7 +9,7 @@ College students need experience, but internships and entry-level jobs often req
 ## Our Solution:
 We've decided to develop UConnect- a web application designed to promote collaborative project development amongst college students, allowing them to reach out to each other to work on projects for experience that they can put on their resumes.
 
-This will occur primarilyl through the use of tagged posts.
+This will occur primarily through the use of tagged posts.
 
 A user acting as a ‘Project Launcher’ can make a post describing the project they wish to launch, and then tag it with the skills or fields of study they’ll need expertise in. For example, a Launcher could tag their post with Business or Marketing. A user can also tag their post with information relating to the project- for example, a user could tag their post as “academic” if it’s part of a class they’re taking or part of research they’re doing with the school.
 
