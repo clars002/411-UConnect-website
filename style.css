@@ -5,14 +5,28 @@ body {
 	color: white;
 	font-family: 'Trebuchet MS', sans-serif;
 	text-align: center;
+	margin-right: 12%;
+	margin-left: 12%;
+}
+a:link {
+  color: lightblue;
+  background-color: transparent;
+  text-decoration: none;
 }
 
+a:visited {
+  color: lightpurple;
+  background-color: transparent;
+  text-decoration: none;
+}
 /* The top navigation bar, this doesnt follow the user scrolling, we can vote for a preference*/
 .topnav{
 	overflow: hidden; 
 	background-color: #062d52;
 	font-family: 'Trebuchet MS', sans-serif;
 	padding: 2px, 2px;
+	margin-right: 0px;
+	margin-left: -12%;
 }
 .topnav a:hover, .dropdown:hover .dropbtn {
   background-color: #0d7e95;
