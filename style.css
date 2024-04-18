@@ -9,13 +9,13 @@ body {
 	margin-left: 12%;
 }
 a:link {
-  color: lightblue;
+  color: white;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: lightpurple;
+  color: lightgray;
   background-color: transparent;
   text-decoration: none;
 }
