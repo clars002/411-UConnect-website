@@ -1,0 +1,1 @@
+If the pdf file names are changed, then they need to be updated in presentations.html and labs.html
