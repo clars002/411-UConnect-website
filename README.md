@@ -27,7 +27,7 @@ Users are not limited to remaining a Project Launcher or a Project Seeker for li
 
 ## Expected Functionality:
 - You can expect to be able to write a post about a project and tag it with relevant information, such as "academic", "game development", "AutoCAD".
-- You can browse a post via tag, or just by normal search.
+- You can browse posts via tag, or just by normal search.
 - You can view user profiles and read reviews left by other users.
 
 
