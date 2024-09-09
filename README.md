@@ -37,4 +37,3 @@ Users are not limited to remaining a Project Launcher or a Project Seeker for li
 
 ## So How do I Use It?
 You can't. It hasn't been built yet.
-[Starting Page](https://zwasique.github.io/UConnect/)
