@@ -1,5 +1,5 @@
 ## UConnect
-This is the capstone project developed by the CS410 Team Sapphire students at ODU from Spring 2024 to Fall 2024.
+This website is dedicated to the capstone project developed by the CS410 Team Sapphire students at ODU from Spring 2024 to Fall 2024.
 
 ## The Problem:
 
