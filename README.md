@@ -15,7 +15,7 @@ A user acting as a ‘Project Launcher’ can make a post describing the project
 
 ‘Project Seekers’ can browse these posts to find projects they wish to join. Through these posts, a Project Seeker can send a message to the Launcher who posted the project idea.
 
-Users are not limited to remaining a Project Launcher or a Project Seeker for life- sometimes, a user might have their own idea, while other times, they may be more interested in someone else’s idea. All users can browse student profiles and check the skills listed on a profile, read reviews, and see whether or not a user is open for project invites or not.
+Project Seekers and Project Launchers have the same interface-- these title are only used to describe a student's behaviours and goals at a given point. Sometimes, a user might have their own idea, while other times, they may be more interested in someone else’s idea. All users can browse student profiles and check the skills listed on a profile, read reviews, and see whether or not a user is open for project invites or not.
 
 *UConnect* is a student platform purchased by college administrators; the ability to access the service should act as one of the many benefits that attending a good university entails. The use of *UConnect* amongst colleges will strengthen the community and networking aspect of college, and should be particularly useful for students who attend school virtually and don't get to collaborate with peers often on an in-person level.
 
