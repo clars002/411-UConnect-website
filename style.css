@@ -93,3 +93,19 @@ float: none;
 	padding: 20px;
 
 }
+
+.lab_button {
+	background-color: #FFFFFF;
+	color: #062d52;
+	border: 2px solid #001c36; 
+	font-size:16px;
+	padding: 20px 40px; 
+	cursor: pointer;
+	text-align: center;
+	border-radius: 5px;
+}
+
+.lab_button:hover{
+	background-color: #001c36;
+	color: #FFFFFF;
+}
